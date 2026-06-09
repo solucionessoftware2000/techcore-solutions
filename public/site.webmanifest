@@ -2,18 +2,18 @@
   "name": "GPTech Core",
   "short_name": "GPTech Core",
   "description": "Desarrollo de software a medida en Perú",
-  "start_url": "/",
+  "start_url": "/gptechcore-solutions/",
   "display": "standalone",
   "background_color": "#f8f9fb",
   "theme_color": "#1e4ff2",
   "icons": [
     {
-      "src": "/logotech.png",
+      "src": "logotech.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/logotech.png",
+      "src": "logotech.png",
       "sizes": "512x512",
       "type": "image/png"
     }

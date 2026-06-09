@@ -4,6 +4,7 @@ import Services from './components/Services';
 import Projects from './components/Projects';
 import CTABanner from './components/CTABanner';
 import Footer from './components/Footer';
+import WhatsAppButton from './components/WhatsAppButton';
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
       <Projects />
       <CTABanner />
       <Footer />
+      <WhatsAppButton />
     </div>
   );
 }

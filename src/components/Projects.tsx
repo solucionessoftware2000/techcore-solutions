@@ -9,13 +9,13 @@ const projects = [
     domain: 'itapp.llc',
     href: 'https://itapp.llc',
     description:
-      'Perfiles digitales, tarjetas NFC y herramientas para impulsar tu negocio. Presencia profesional en segundos.',
+      'SaaS de perfiles digitales, tarjetas NFC y herramientas para impulsar tu negocio. Presencia profesional en segundos.',
     pills: [
       { icon: Smartphone, label: 'Tarjetas NFC' },
       { icon: QrCode, label: 'QR Personalizable' },
       { icon: Lock, label: 'Encriptación E2E' },
     ],
-    tags: ['Next.js', 'NestJS', 'PostgreSQL', 'Redis', 'Prisma'],
+    tags: ['Next.js', 'NestJS', 'PostgreSQL', 'Redis', 'Prisma', 'Cloudflare', 'Zoho', 'ZeptoMail', 'CRM'],
   },
   {
     id: 'enfermeras24',
@@ -30,7 +30,7 @@ const projects = [
       { icon: Heart, label: 'Cuidado a domicilio' },
       { icon: Shield, label: 'Personal certificado' },
     ],
-    tags: ['WordPress', 'WhatsApp API', 'SEO', 'Landing Page'],
+    tags: ['React', 'WhatsApp API', 'SEO', 'Landing Page'],
   },
 ];
 

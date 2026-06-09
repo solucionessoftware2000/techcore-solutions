@@ -41,7 +41,7 @@ export default function Hero() {
                   key={item}
                   className="flex items-center gap-2.5 text-sm font-medium text-surface-700"
                 >
-                  <CheckCircle2 className="w-4.5 h-4.5 text-brand-500 shrink-0" />
+                  <CheckCircle2 className="w-5 h-5 text-brand-500 shrink-0" />
                   {item}
                 </li>
               ))}

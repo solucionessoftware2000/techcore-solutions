@@ -1,4 +1,3 @@
-import { Hexagon } from 'lucide-react';
 
 const footerLinks = [
   { label: 'Política de Privacidad', href: '#' },
@@ -15,7 +14,7 @@ export default function Footer() {
         <div className="flex flex-col items-center gap-8">
           {/* Brand */}
           <div className="flex items-center gap-2">
-            <Hexagon className="w-6 h-6 text-brand-600" strokeWidth={2.2} />
+            <img src="/logotech.png" alt="TechCore logo" className="w-7 h-7 rounded-md object-cover" />
             <span className="text-base font-semibold text-surface-900">
               Tech<span className="text-brand-600">Core</span> Solutions
             </span>

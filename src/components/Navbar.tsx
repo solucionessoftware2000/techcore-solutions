@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
+import logotech from '/logotech.png';
 
 const navLinks = [
   { label: 'Servicios', href: '#servicios' },
@@ -28,7 +29,7 @@ export default function Navbar() {
       <div className="container-landing flex items-center justify-between h-16">
         <a href="#" className="flex items-center gap-2 group">
           <img
-            src="/logotech.png"
+            src={logotech}
             alt="TechCore logo"
             className="w-8 h-8 rounded-lg object-cover"
           />

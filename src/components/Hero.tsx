@@ -47,19 +47,19 @@ export default function Hero() {
               ))}
             </ul>
 
-            <div className="flex flex-col sm:flex-row items-start gap-4">
+            <div className="flex flex-col sm:flex-row gap-4">
               <a
                 href="https://wa.me/51908576452?text=Hola%20TechCore%2C%20me%20interesa%20iniciar%20un%20proyecto%20de%20desarrollo%20de%20software.%20%C2%BFPodemos%20conversar%3F"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 px-7 py-3.5 rounded-lg bg-accent-500 text-white font-semibold hover:bg-accent-600 transition-all duration-300 shadow-sm hover:shadow-md hover:shadow-accent-500/15"
+                className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-7 py-3.5 rounded-lg bg-accent-500 text-white font-semibold hover:bg-accent-600 transition-all duration-300 shadow-sm hover:shadow-md hover:shadow-accent-500/15"
               >
                 Iniciar Proyecto
                 <ArrowRight className="w-4 h-4" />
               </a>
               <a
                 href="#servicios"
-                className="inline-flex items-center gap-2 px-7 py-3.5 rounded-lg border border-surface-300 text-surface-700 font-semibold hover:border-brand-300 hover:text-brand-700 hover:bg-brand-50 transition-all duration-300"
+                className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-7 py-3.5 rounded-lg border border-surface-300 text-surface-700 font-semibold hover:border-brand-300 hover:text-brand-700 hover:bg-brand-50 transition-all duration-300"
               >
                 Ver Servicios
               </a>

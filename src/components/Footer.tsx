@@ -1,4 +1,6 @@
 
+import logotech from '/logotech.png';
+
 const footerLinks = [
   { label: 'Política de Privacidad', href: '#' },
   { label: 'Términos de Servicio', href: '#' },
@@ -14,7 +16,7 @@ export default function Footer() {
         <div className="flex flex-col items-center gap-8">
           {/* Brand */}
           <div className="flex items-center gap-2">
-            <img src="/logotech.png" alt="TechCore logo" className="w-7 h-7 rounded-md object-cover" />
+            <img src={logotech} alt="TechCore logo" className="w-7 h-7 rounded-md object-cover" />
             <span className="text-base font-semibold text-surface-900">
               Tech<span className="text-brand-600">Core</span> Solutions
             </span>

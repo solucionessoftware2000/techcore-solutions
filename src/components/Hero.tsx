@@ -24,15 +24,15 @@ export default function Hero() {
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-[3.4rem] font-bold leading-[1.08] tracking-tight text-surface-900 mb-6">
-              Tu negocio merece{' '}
-              <span className="text-brand-600">tecnología exclusiva</span>{' '}
-              y eficiente.
+              Desarrollo de software a medida{' '}
+              <span className="text-brand-600">para tu empresa</span>{' '}
+              en Perú.
             </h1>
 
             <p className="text-lg text-surface-500 leading-relaxed mb-8">
-              Deje de usar sistemas genéricos que no se adaptan a su flujo de
-              trabajo. Desarrollamos el software exacto que necesita para
-              automatizar procesos y aumentar sus ventas.
+              Creamos páginas web, aplicaciones móviles y sistemas empresariales
+              exactamente a tu medida. Deja los genéricos: automatiza procesos,
+              digitaliza tu negocio y aumenta ventas desde Lima.
             </p>
 
             <ul className="space-y-3 mb-10">

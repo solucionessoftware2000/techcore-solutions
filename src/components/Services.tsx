@@ -44,10 +44,10 @@ export default function Services() {
             Servicios
           </p>
           <h2 className="text-3xl sm:text-4xl font-bold text-surface-900 tracking-tight">
-            Soluciones que transforman operaciones
+            Servicios de desarrollo de software en Lima, Perú
           </h2>
           <p className="mt-4 text-surface-500 max-w-2xl mx-auto">
-            Cada solución está diseñada para resolver problemas reales de negocio, no para sumar tecnología por tecnología.
+            Desde crear tu página web hasta automatizar procesos internos con IA — cada solución está diseñada para resolver problemas reales de tu negocio.
           </p>
         </div>
 
